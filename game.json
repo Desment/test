@@ -1,0 +1,15 @@
+{
+    "player1": {
+        "score": "0",
+        "country": "colombia"
+    },
+    "player2": {
+        "score": "0",
+        "country": "colombia"
+    },
+    "game": {
+        "map": "Islas Eco",
+        "name": "KorKux Cup",
+        "description": "Octavos de final (Bo3)"
+    }
+}
